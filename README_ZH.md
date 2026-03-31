@@ -1,7 +1,7 @@
 # AI Fitness Coach
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/downloads/)
 [![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blueviolet.svg)](https://docs.anthropic.com/en/docs/claude-code)
 
 **住在 WhatsApp 裡的 AI 私人教練。** 追蹤運動、營養、睡眠和體重，然後獲得智慧建議、個人化提醒和督促，全部透過聊天完成。
@@ -61,6 +61,8 @@ claude --version
 ```
 
 ### 2. 安裝 WhatsApp 外掛
+
+> **外掛 repo:** [Rich627/whatsapp-claude-plugin](https://github.com/Rich627/whatsapp-claude-plugin) — Claude Code 的 WhatsApp 頻道外掛
 
 ```bash
 # 在 Claude Code 工作階段中：

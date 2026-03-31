@@ -26,12 +26,12 @@ if command -v python3 &>/dev/null; then
     PY_MINOR=$(echo "$PY_VERSION" | cut -d. -f2)
     echo "  Found Python ${PY_VERSION}"
     if [ "$PY_MAJOR" -lt 3 ] || ([ "$PY_MAJOR" -eq 3 ] && [ "$PY_MINOR" -lt 8 ]); then
-        echo "  Error: Python 3.8+ required (found ${PY_VERSION})"
+        echo "  Error: Python 3.12+ required (found ${PY_VERSION})"
         exit 1
     fi
     echo "  OK"
 else
-    echo "  Error: Python 3 not found. Install Python 3.8+ and try again."
+    echo "  Error: Python 3 not found. Install Python 3.12+ and try again."
     exit 1
 fi
 echo ""

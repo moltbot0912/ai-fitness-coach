@@ -1,7 +1,7 @@
 # AI Fitness Coach
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/downloads/)
 [![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blueviolet.svg)](https://docs.anthropic.com/en/docs/claude-code)
 
 **Your AI personal trainer that lives in WhatsApp.** Track workouts, nutrition, sleep, and weight -- then get smart suggestions, personalized reminders, and accountability, all through chat.
@@ -61,6 +61,8 @@ claude --version
 ```
 
 ### 2. Install the WhatsApp Plugin
+
+> **Plugin repo:** [Rich627/whatsapp-claude-plugin](https://github.com/Rich627/whatsapp-claude-plugin) — WhatsApp channel plugin for Claude Code
 
 ```bash
 # Inside a Claude Code session:

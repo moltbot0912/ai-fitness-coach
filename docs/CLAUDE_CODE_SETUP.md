@@ -62,7 +62,7 @@ curl -fsSL https://bun.sh/install | bash
 bun --version
 ```
 
-### 1.3 Python 3.8+
+### 1.3 Python 3.12+
 
 The fitness tracking CLI (`fitness-cli.py`) is written in Python and uses only the standard library -- no pip packages required.
 
@@ -426,7 +426,7 @@ This is a WhatsApp-based fitness coaching bot powered by Claude Code.
 - config/group-config.example.md -- WhatsApp group personality template
 
 ## Development
-- Python 3.8+ (standard library only, no external packages)
+- Python 3.12+ (standard library only, no external packages)
 - Database: SQLite at data/fitness.db
 - Run CLI: python3 src/fitness-cli.py --help
 EOF

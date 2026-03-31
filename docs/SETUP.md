@@ -6,7 +6,7 @@ This guide walks through every step to get AI Fitness Coach running. It assumes 
 
 ## Prerequisites
 
-### Python 3.8+
+### Python 3.12+
 
 Check your version:
 ```bash
@@ -18,7 +18,7 @@ python3 --version
 Python 3.11.5    # (any version 3.8 or higher is fine)
 ```
 
-If you don't have Python 3.8+:
+If you don't have Python 3.12+:
 
 - **macOS**: `brew install python3` (requires [Homebrew](https://brew.sh/); install Homebrew first if needed)
 - **Ubuntu/Debian**: `sudo apt update && sudo apt install -y python3`
@@ -298,7 +298,7 @@ Customize times by editing your crontab: `crontab -e`
 
 After setup, verify each component is working:
 
-- [ ] **Python version**: `python3 --version` shows 3.8+
+- [ ] **Python version**: `python3 --version` shows 3.12+
 - [ ] **Database exists**: `ls data/fitness.db` shows the file
 - [ ] **Profile exists**: `ls config/profile.json` shows the file
 - [ ] **CLI runs**: `python3 src/fitness-cli.py --help` shows the help menu
