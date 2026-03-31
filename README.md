@@ -92,57 +92,45 @@ Send a message in your WhatsApp group and the coach will respond. For detailed s
 
 Here is what a typical interaction looks like in your WhatsApp group:
 
+### Daily Status Check
+
+> "Hey Coach, what's my status?" -- Get a complete daily snapshot with weight, workout, sleep, and nutrition at a glance.
+
+<p align="center">
+  <img src="assets/demo/01-status.jpg" alt="Daily status check showing weight, workout, sleep, and nutrition summary" width="300">
+</p>
+
 ### Food Photo Recognition
 
-```
-You:      [sends a photo of grilled chicken with rice and vegetables]
+> Snap a photo of your meal and the coach instantly analyzes calories and macros, then updates your daily totals.
 
-Coach:    I can see grilled chicken breast with rice and mixed veggies!
-          Here's my estimate:
-          - ~520 kcal | 42g protein | 55g carbs | 12g fat
+<p align="center">
+  <img src="assets/demo/02-food.jpg" alt="Food photo analysis of fried chicken with automatic nutrition breakdown" width="300">
+</p>
 
-          Today's totals: 1,040 / 2,200 kcal | 78 / 120g protein
-          You've got about 1,160 kcal left -- maybe a protein shake
-          later to hit your target?
-```
+### Smart Workout Plan
 
-### Workout Suggestion
+> "What should I train today?" -- The AI builds a personalized workout based on your sleep quality, training history, and available equipment.
 
-```
-You:      What should I train today?
+<p align="center">
+  <img src="assets/demo/04-workout.jpg" alt="AI-generated workout plan tailored to training history and sleep" width="300">
+</p>
 
-Coach:    Based on your history, you haven't trained Back in 5 days
-          and Shoulders in 4 days. Your sleep has been solid (7.5h avg),
-          so I'd push the volume a bit.
+### Gym Equipment Recognition
 
-          Here's a 40-min Back + Shoulders session at Home Gym:
+> Snap a photo of any gym machine and the coach identifies it, then teaches you how to use it with proper form.
 
-          Warm-up (5 min):
-          - Arm circles, band pull-aparts
+<p align="center">
+  <img src="assets/demo/05-equipment.jpg" alt="Gym equipment identification with usage instructions" width="300">
+</p>
 
-          Back (20 min):
-          - Barbell Rows: 4 x 10 @ moderate weight
-          - Dumbbell Rows: 3 x 12 each arm
-          - Pull-ups: 3 x max
+### Personalized Restaurant Recommendations
 
-          Shoulders (10 min):
-          - Dumbbell Shoulder Press: 3 x 10
-          - Lateral Raises: 3 x 15
+> "Any restaurant recommendations?" -- Get suggestions tailored to your remaining calorie and protein targets for the day.
 
-          Cool-down (5 min):
-          - Stretch lats, traps, rear delts
-```
-
-### Daily Reminder
-
-```
-[10:00 AM -- Automated Morning Reminder]
-
-Coach:    Good morning! It's been 2 days since your last workout
-          (Chest at Home Gym). How was your sleep last night?
-          Today might be a good day for Back or Legs -- just say
-          the word and I'll build you a plan!
-```
+<p align="center">
+  <img src="assets/demo/06-restaurant.jpg" alt="Restaurant recommendations based on remaining daily nutrition targets" width="300">
+</p>
 
 ---
 
