@@ -1,5 +1,5 @@
 #!/bin/bash
-# workout-reminder.sh -- Kai Fitness automated reminder via WhatsApp
+# workout-reminder.sh -- AI Fitness Coach automated reminder via WhatsApp
 #
 # This script fetches your current fitness status and sends a personalized
 # reminder to your WhatsApp group using Claude Code's WhatsApp channel plugin.
@@ -11,11 +11,11 @@
 #
 # Usage:
 #   ./workout-reminder.sh              # Use defaults
-#   KAI_DIR=/path/to/kai-fitness ./workout-reminder.sh  # Custom path
+#   KAI_DIR=/path/to/ai-fitness-coach ./workout-reminder.sh  # Custom path
 #
 # Cron example (10 AM and 7:30 PM daily):
-#   0 10 * * * /path/to/kai-fitness/cron/workout-reminder.sh >> /tmp/kai-cron.log 2>&1
-#   30 19 * * * /path/to/kai-fitness/cron/workout-reminder.sh >> /tmp/kai-cron.log 2>&1
+#   0 10 * * * /path/to/ai-fitness-coach/cron/workout-reminder.sh >> /tmp/kai-cron.log 2>&1
+#   30 19 * * * /path/to/ai-fitness-coach/cron/workout-reminder.sh >> /tmp/kai-cron.log 2>&1
 
 set -euo pipefail
 

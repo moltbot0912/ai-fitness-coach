@@ -1,4 +1,4 @@
-# Kai Fitness -- Python Dependencies
+# AI Fitness Coach -- Python Dependencies
 #
 # The core CLI only uses Python standard library modules (sqlite3, json, argparse, etc.)
 # No external packages are required for basic operation.

@@ -1,5 +1,5 @@
 #!/bin/bash
-# install-cron.sh -- Install Kai Fitness cron jobs for automated reminders
+# install-cron.sh -- Install AI Fitness Coach cron jobs for automated reminders
 #
 # This script adds two cron entries:
 #   - Morning reminder at 10:00 AM
@@ -13,7 +13,7 @@ KAI_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 REMINDER_SCRIPT="${KAI_DIR}/cron/workout-reminder.sh"
 CRON_LOG="${KAI_DIR}/cron.log"
 
-echo "Kai Fitness -- Cron Job Installer"
+echo "AI Fitness Coach -- Cron Job Installer"
 echo "================================="
 echo ""
 echo "Project directory: ${KAI_DIR}"
@@ -54,18 +54,18 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
 
     # Check if entries already exist
     if echo "$EXISTING_CRON" | grep -q "workout-reminder.sh"; then
-        echo "Kai Fitness cron jobs already exist. Skipping to avoid duplicates."
+        echo "AI Fitness Coach cron jobs already exist. Skipping to avoid duplicates."
         echo "To remove existing entries, run: crontab -e"
         exit 0
     fi
 
     # Append new entries
-    (echo "$EXISTING_CRON"; echo ""; echo "# Kai Fitness reminders"; echo "$MORNING_CRON"; echo "$EVENING_CRON") | crontab -
+    (echo "$EXISTING_CRON"; echo ""; echo "# AI Fitness Coach reminders"; echo "$MORNING_CRON"; echo "$EVENING_CRON") | crontab -
 
     echo "Cron jobs installed successfully!"
     echo ""
     echo "To verify: crontab -l"
-    echo "To remove: crontab -e  (and delete the Kai Fitness lines)"
+    echo "To remove: crontab -e  (and delete the AI Fitness Coach lines)"
     echo ""
     echo "Tip: Adjust the times by editing crontab -e"
     echo "  Cron format: minute hour * * *"

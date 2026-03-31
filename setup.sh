@@ -1,5 +1,5 @@
 #!/bin/bash
-# setup.sh -- One-click setup for Kai Fitness
+# setup.sh -- One-click setup for AI Fitness Coach
 #
 # This script will:
 #   1. Check Python version
@@ -14,7 +14,7 @@ set -euo pipefail
 KAI_DIR="$(cd "$(dirname "$0")" && pwd)"
 
 echo "======================================"
-echo "  Kai Fitness -- Setup"
+echo "  AI Fitness Coach -- Setup"
 echo "======================================"
 echo ""
 

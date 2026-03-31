@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-kai-cli.py -- Kai Fitness CLI tool.
+kai-cli.py -- AI Fitness Coach CLI tool.
 
 Log and query health/fitness data from the command line.
 Used by the WhatsApp channel agent (via Claude Code) or directly by the user.
@@ -758,7 +758,7 @@ def cmd_strength_trend(args):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Kai Fitness CLI -- log and query workout/nutrition data",
+        description="AI Fitness Coach CLI -- log and query workout/nutrition data",
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
 

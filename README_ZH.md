@@ -1,4 +1,4 @@
-# Kai Fitness
+# AI Fitness Coach
 
 **AI 驅動的 WhatsApp 健身教練** -- 運動追蹤、營養記錄、智慧建議。
 
@@ -30,8 +30,8 @@ Kai 是一個住在你 WhatsApp 群組裡的個人健身代理。它追蹤你的
 
 ```bash
 # 複製專案
-git clone https://github.com/moltbot0912/kai-fitness.git
-cd kai-fitness
+git clone https://github.com/moltbot0912/ai-fitness-coach.git
+cd ai-fitness-coach
 
 # 執行設定腳本
 chmod +x setup.sh

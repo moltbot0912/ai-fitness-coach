@@ -1,5 +1,5 @@
 """
-db_manager.py - Kai Fitness SQLite database manager.
+db_manager.py - AI Fitness Coach SQLite database manager.
 
 Standalone module for all health/fitness data operations:
   - Body metrics (weight, body fat, etc.)
