@@ -108,60 +108,32 @@ claude --channels plugin:whatsapp@whatsapp-claude-plugin
   <img src="assets/demo/02-food.jpg" alt="食物照片分析，自動計算營養成分" width="300">
 </p>
 
-### 智慧運動計劃
+### 體重追蹤 & 智慧運動計劃
 
-> 「今天練什麼？」 -- AI 根據你的睡眠品質、訓練歷史和可用器材，量身打造專屬運動計劃。
-
-<p align="center">
-  <img src="assets/demo/04-workout.jpg" alt="AI 根據訓練歷史和睡眠生成的個人化運動計劃" width="300">
-</p>
-
-### 健身器材辨識
-
-> 拍一張健身房器材的照片，教練會辨識它，並教你正確的使用方式和姿勢。
+> 記錄體重並問今天練什麼 — AI 會檢查你的進度趨勢、睡眠品質和訓練歷史，量身打造專屬計劃。
 
 <p align="center">
-  <img src="assets/demo/05-equipment.jpg" alt="健身器材辨識與使用教學" width="300">
+  <img src="assets/demo/03-weight.jpg" alt="體重記錄與趨勢追蹤，接著生成訓練建議" width="300">
+  <img src="assets/demo/04-workout.jpg" alt="AI 根據睡眠、恢復狀態和器材生成的個人化運動計劃" width="300">
 </p>
 
-### 個人化餐廳推薦
+### 健身器材辨識 & 使用教學
 
-> 「有什麼餐廳推薦嗎？」 -- 根據你當天剩餘的卡路里和蛋白質目標，獲得量身推薦。
+> 拍一張器材照片 — 教練辨識器材後，一步步教你正確的使用方式和安全要點。
+
+<p align="center">
+  <img src="assets/demo/05-equipment.jpg" alt="健身器材照片辨識" width="300">
+  <img src="assets/demo/07-maps.jpg" alt="詳細的步驟式使用教學與姿勢提示" width="300">
+</p>
+
+### 餐廳推薦 & 導航
+
+> 「有什麼餐廳推薦嗎？」 -- 根據剩餘營養目標推薦餐廳、Google Maps 導航、最佳化點餐建議一次搞定。
 
 <p align="center">
   <img src="assets/demo/06-restaurant.jpg" alt="根據每日剩餘營養目標推薦餐廳" width="300">
-</p>
-
-### 體重追蹤與趨勢
-
-> 「我的體重是 130」 -- 記錄體重並即時查看進度趨勢和目標追蹤。
-
-<p align="center">
-  <img src="assets/demo/03-weight.jpg" alt="體重記錄與趨勢追蹤" width="300">
-</p>
-
-### 器材使用教學
-
-> 教練不只辨識器材 — 還會一步步教你正確的使用方式和安全要點。
-
-<p align="center">
-  <img src="assets/demo/07-maps.jpg" alt="器材詳細使用教學與姿勢提示" width="300">
-</p>
-
-### 尋找最近餐廳
-
-> 「幫我找最近的 Chipotle」 -- 提供地址、電話、營業時間和 Google Maps 連結。
-
-<p align="center">
   <img src="assets/demo/09-extra.jpg" alt="最近餐廳搜尋與 Google Maps 導航" width="300">
-</p>
-
-### 最佳化點餐建議
-
-> 「我該點什麼？」 -- 根據你剩餘的每日營養目標，提供最佳化的點餐建議，同時考慮飲食限制。
-
-<p align="center">
-  <img src="assets/demo/08-order.jpg" alt="根據營養目標最佳化的點餐建議" width="300">
+  <img src="assets/demo/08-order.jpg" alt="根據營養目標最佳化的點餐建議與飲食限制" width="300">
 </p>
 
 ---

@@ -108,60 +108,32 @@ Here is what a typical interaction looks like in your WhatsApp group:
   <img src="assets/demo/02-food.jpg" alt="Food photo analysis of fried chicken with automatic nutrition breakdown" width="300">
 </p>
 
-### Smart Workout Plan
+### Weight Tracking & Smart Workout Plan
 
-> "What should I train today?" -- The AI builds a personalized workout based on your sleep quality, training history, and available equipment.
-
-<p align="center">
-  <img src="assets/demo/04-workout.jpg" alt="AI-generated workout plan tailored to training history and sleep" width="300">
-</p>
-
-### Gym Equipment Recognition
-
-> Snap a photo of any gym machine and the coach identifies it, then teaches you how to use it with proper form.
+> Log your weight and ask what to train — the AI checks your progress trend, sleep quality, and training history to build a personalized plan.
 
 <p align="center">
-  <img src="assets/demo/05-equipment.jpg" alt="Gym equipment identification with usage instructions" width="300">
+  <img src="assets/demo/03-weight.jpg" alt="Weight logging with trend display, then transitioning to workout suggestion" width="300">
+  <img src="assets/demo/04-workout.jpg" alt="AI-generated workout plan based on sleep, recovery, and equipment" width="300">
 </p>
 
-### Personalized Restaurant Recommendations
+### Gym Equipment Recognition & Usage Guide
 
-> "Any restaurant recommendations?" -- Get suggestions tailored to your remaining calorie and protein targets for the day.
+> Snap a photo of any gym machine — the coach identifies it and teaches you step-by-step how to use it with proper form and safety tips.
+
+<p align="center">
+  <img src="assets/demo/05-equipment.jpg" alt="Gym equipment photo identification" width="300">
+  <img src="assets/demo/07-maps.jpg" alt="Detailed step-by-step usage instructions with form tips" width="300">
+</p>
+
+### Restaurant Recommendations & Navigation
+
+> "Any restaurant recommendations?" -- Get suggestions based on your remaining nutrition targets, find the nearest location on Google Maps, and get an optimized order.
 
 <p align="center">
   <img src="assets/demo/06-restaurant.jpg" alt="Restaurant recommendations based on remaining daily nutrition targets" width="300">
-</p>
-
-### Weight Tracking & Trends
-
-> "My weight is 130" -- Log your weight and instantly see your progress trend with goal tracking.
-
-<p align="center">
-  <img src="assets/demo/03-weight.jpg" alt="Weight logging with trend display and goal tracking" width="300">
-</p>
-
-### Equipment Usage Guide
-
-> The coach doesn't just identify machines — it teaches you step-by-step how to use them with proper form and safety tips.
-
-<p align="center">
-  <img src="assets/demo/07-maps.jpg" alt="Detailed equipment usage instructions with form tips" width="300">
-</p>
-
-### Find Nearest Restaurant
-
-> "Show me the nearest Chipotle on Google Maps" -- Get the address, phone number, hours, and a direct Google Maps link.
-
-<p align="center">
-  <img src="assets/demo/09-extra.jpg" alt="Nearest restaurant with Google Maps link and order suggestion" width="300">
-</p>
-
-### Optimized Order Suggestion
-
-> "What should I order?" -- Get a macro-optimized order that fits your remaining daily targets, with dietary restrictions considered.
-
-<p align="center">
-  <img src="assets/demo/08-order.jpg" alt="Optimized restaurant order with macro breakdown and dietary notes" width="300">
+  <img src="assets/demo/09-extra.jpg" alt="Nearest restaurant with Google Maps link and directions" width="300">
+  <img src="assets/demo/08-order.jpg" alt="Optimized order suggestion with macro breakdown and dietary notes" width="300">
 </p>
 
 ---
