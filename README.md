@@ -102,19 +102,20 @@ Here is what a typical interaction looks like in your WhatsApp group:
 
 ### Food Photo Recognition
 
-> Snap a photo of your meal and the coach instantly analyzes calories and macros, then updates your daily totals.
+> Snap a photo of your meal and the coach instantly analyzes calories and macros, updates your daily totals, and tells you how much more you need to eat.
 
 <p align="center">
-  <img src="assets/demo/02-food.jpg" alt="Food photo analysis of fried chicken with automatic nutrition breakdown" width="300">
+  <img src="assets/demo/02-food.jpg" alt="Food photo analysis with automatic nutrition breakdown" width="300">
+  <img src="assets/demo/03-weight.jpg" alt="Remaining daily targets and personalized eating advice" width="300">
 </p>
 
 ### Weight Tracking & Smart Workout Plan
 
-> Log your weight and ask what to train — the AI checks your progress trend, sleep quality, and training history to build a personalized plan.
+> Log your weight to see your progress trend, then ask what to train — the AI builds a personalized plan based on sleep quality, training history, and available equipment.
 
 <p align="center">
-  <img src="assets/demo/03-weight.jpg" alt="Weight logging with trend display, then transitioning to workout suggestion" width="300">
   <img src="assets/demo/04-workout.jpg" alt="AI-generated workout plan based on sleep, recovery, and equipment" width="300">
+  <img src="assets/demo/03-weight.jpg" alt="Weight logging with trend display and goal tracking" width="300">
 </p>
 
 ### Gym Equipment Recognition & Usage Guide
@@ -131,6 +132,7 @@ Here is what a typical interaction looks like in your WhatsApp group:
 > "Any restaurant recommendations?" -- Get suggestions based on your remaining nutrition targets, find the nearest location on Google Maps, and get an optimized order.
 
 <p align="center">
+  <img src="assets/demo/07-maps.jpg" alt="User asking for restaurant recommendations" width="300">
   <img src="assets/demo/06-restaurant.jpg" alt="Restaurant recommendations based on remaining daily nutrition targets" width="300">
   <img src="assets/demo/09-extra.jpg" alt="Nearest restaurant with Google Maps link and directions" width="300">
   <img src="assets/demo/08-order.jpg" alt="Optimized order suggestion with macro breakdown and dietary notes" width="300">

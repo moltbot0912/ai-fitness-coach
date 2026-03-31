@@ -102,19 +102,20 @@ claude --channels plugin:whatsapp@whatsapp-claude-plugin
 
 ### 餐點照片辨識
 
-> 拍一張餐點照片，教練立即分析卡路里和巨量營養素，並更新你的每日累計。
+> 拍一張餐點照片，教練立即分析卡路里和巨量營養素，更新每日累計，並告訴你還需要吃多少。
 
 <p align="center">
   <img src="assets/demo/02-food.jpg" alt="食物照片分析，自動計算營養成分" width="300">
+  <img src="assets/demo/03-weight.jpg" alt="顯示每日剩餘目標與個人化飲食建議" width="300">
 </p>
 
 ### 體重追蹤 & 智慧運動計劃
 
-> 記錄體重並問今天練什麼 — AI 會檢查你的進度趨勢、睡眠品質和訓練歷史，量身打造專屬計劃。
+> 記錄體重查看進度趨勢，再問今天練什麼 — AI 根據睡眠品質、訓練歷史和可用器材，量身打造專屬計劃。
 
 <p align="center">
-  <img src="assets/demo/03-weight.jpg" alt="體重記錄與趨勢追蹤，接著生成訓練建議" width="300">
   <img src="assets/demo/04-workout.jpg" alt="AI 根據睡眠、恢復狀態和器材生成的個人化運動計劃" width="300">
+  <img src="assets/demo/03-weight.jpg" alt="體重記錄與趨勢追蹤" width="300">
 </p>
 
 ### 健身器材辨識 & 使用教學
@@ -131,6 +132,7 @@ claude --channels plugin:whatsapp@whatsapp-claude-plugin
 > 「有什麼餐廳推薦嗎？」 -- 根據剩餘營養目標推薦餐廳、Google Maps 導航、最佳化點餐建議一次搞定。
 
 <p align="center">
+  <img src="assets/demo/07-maps.jpg" alt="用戶詢問餐廳推薦" width="300">
   <img src="assets/demo/06-restaurant.jpg" alt="根據每日剩餘營養目標推薦餐廳" width="300">
   <img src="assets/demo/09-extra.jpg" alt="最近餐廳搜尋與 Google Maps 導航" width="300">
   <img src="assets/demo/08-order.jpg" alt="根據營養目標最佳化的點餐建議與飲食限制" width="300">
